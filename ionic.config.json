@@ -1,7 +1,7 @@
 {
-  "name": "ionic-vue",
+  "name": "mapp",
   "integrations": {
     "capacitor": {}
   },
-  "type": "vue"
+  "type": "vue-vite"
 }
